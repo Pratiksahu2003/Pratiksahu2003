@@ -69,7 +69,7 @@ Backend Software Engineer with **3.5+ years** architecting secure, high-performa
 
 ### 💼 Professional Journey
 
-- **Freelance Software Developer** · *Vantroz Technology Pvt Ltd* `(Aug 2026 – Present)`
+- **Contract Software Developer** · *Vantroz Technology Pvt Ltd* `(Aug 2026 – Present)`
   - Production Laravel & Spring Boot REST APIs, Linux/Nginx hosting, SSL, and zero-downtime deployments.
 - **Software Developer** · *SuGanta International* `(Nov 2024 – Jul 2026)`
   - Scalable backends for web & Flutter apps, Spring Boot + JPA services, FastAPI + Redis optimization (~45% DB load reduction, ~30% faster APIs), developer mentorship.
@@ -89,10 +89,7 @@ Backend Software Engineer with **3.5+ years** architecting secure, high-performa
 
 ### 📊 Production Velocity & Contribution Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksahu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Pratik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksahu2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ---
 
