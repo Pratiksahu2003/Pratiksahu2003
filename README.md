@@ -45,12 +45,7 @@
 
 ---
 
-### 📊 Production Velocity & Contribution Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksahu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Pratik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksahu2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
